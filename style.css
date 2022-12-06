@@ -1,0 +1,63 @@
+.container{
+    padding-bottom: 80px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.image{
+    height:280px;
+    width: 100%;
+}
+.img{
+    width: 30px;
+    height: 26px;
+}
+.bg-color{
+    background-color:#fceae8;
+}
+.btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.img1{
+    width:260px;
+    height: 130px;
+    /* margin-top: 55px; */
+    margin-left: 20px;
+    
+}
+.col-md-4{
+    border:solid yellow;
+    border-right: ;
+    border-radius: 20px;
+}
+.card{
+    border:none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgrey;
+    
+}
+.card-footer{
+   background-color: white;
+   border-top: none;
+}
+.footer{
+    text-align: center;
+}
+#contact{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contact h6{
+    color: grey;
+}
+.form-control{
+    margin-bottom: 10px;
+}
